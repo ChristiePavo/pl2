@@ -9,7 +9,7 @@ From web tiers
 
 from middle tier, needs application interface (i.e. JSON) and needs token:
 
-3) from normal AGOL: My content, view item details, bottom right (view - this gives the token) https://services1.arcgis.com/pMeXRvgWClLJZr3s/arcgis/rest/services/cptree/FeatureServer
+3) from normal AGOL: My content, view item details, bottom right (no token) https://services1.arcgis.com/pMeXRvgWClLJZr3s/arcgis/rest/services/cptree/FeatureServer
 
 
 4) URL: First Tutorial
