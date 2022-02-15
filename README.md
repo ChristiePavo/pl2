@@ -12,8 +12,11 @@ from middle tier, needs application interface (i.e. JSON) and needs token:
 3) from normal AGOL: My content, view item details, bottom right (view - this gives the token) https://services1.arcgis.com/pMeXRvgWClLJZr3s/arcgis/rest/services/cptree/FeatureServer
 
 
-4) URL: # Story using Google Dynamic Maps
-(URL:https://christiepavo.github.io/pl2/story.html
+4) URL: First Tutorial
+URL:https://christiepavo.github.io/pl2/TutorialMap.html
+
+5) Second Tutorial
+URL:https://christiepavo.github.io/pl2/TutorialMapAddPtLinePolyline.html
 
  
 
