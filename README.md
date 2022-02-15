@@ -1,5 +1,5 @@
 # pl2
-for weeks 3 & 4 of GEOM99
+Reademd.md for weeks 3 & 4 of GEOM99
 
 URL to CPTree shared feature layer
 
