@@ -13,7 +13,7 @@ from middle tier, needs application interface (i.e. JSON) and needs token:
 
 
 4) URL: First Tutorial
-URL:https://christiepavo.github.io/pl2/index.html
+URL:https://christiepavo.github.io/pl2/TutorialMap.html
 
 5) Second Tutorial
 URL:https://christiepavo.github.io/pl2/TutorialMapAddPtLinePolyline.html
