@@ -9,12 +9,12 @@ URL to Item details page: https://fleming.maps.arcgis.com/home/item.html?id=766e
 Week 4 lab work
 URL to CPTree shared feature layer
 From web tiers
-1) from normal AGOL: My content, view item details, https://fleming.maps.arcgis.com/home/item.html?id=d432169c87ae43359372960f8df1158c
-2) from developer's interface (account dashboard/layers) https://developers.arcgis.com/layers/d432169c87ae43359372960f8df1158c
+1) from developer's Details Item Page (account dashboard/layers) https://developers.arcgis.com/layers/d432169c87ae43359372960f8df1158c
+
+2) AGOL Items Page(under content): https://fleming.maps.arcgis.com/home/item.html?id=d432169c87ae43359372960f8df1158c
 
 from middle tier, needs application interface (i.e. JSON) and needs token:
-
-3) from normal AGOL: My content, view item details, bottom right (no token) https://services1.arcgis.com/pMeXRvgWClLJZr3s/arcgis/rest/services/cptree/FeatureServer
+3) REST API from normal AGOL: My content, view item details, bottom right (no token) https://services1.arcgis.com/pMeXRvgWClLJZr3s/arcgis/rest/services/cptree/FeatureServer
 
 
 4) URL: First Tutorial
