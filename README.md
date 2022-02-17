@@ -13,9 +13,8 @@ From web tiers
 
 2) AGOL Items Page(under content): https://fleming.maps.arcgis.com/home/item.html?id=d432169c87ae43359372960f8df1158c
 
-from middle tier, needs application interface (i.e. JSON) and needs token:
 3) REST API from normal AGOL: My content, view item details, bottom right (no token) https://services1.arcgis.com/pMeXRvgWClLJZr3s/arcgis/rest/services/cptree/FeatureServer
-
+(from middle tier, needs application interface (i.e. JSON) and needs token)
 
 4) URL: First Tutorial
 URL:https://christiepavo.github.io/pl2/TutorialMap.html
